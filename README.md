@@ -1,7 +1,7 @@
 
 # 🌿 RPG Of Roots and Remedies
 
-🪴**Of Roots and Remedies** nació como un ejercicio académico para practicar HTML, CSS y Javascript y acabó siendo **mi primer intento de crear un videojuego RPG**. 
+🪴**Of Roots and Remedies** nació como un ejercicio académico para practicar HTML, CSS y Javascript y acabó siendo **mi primer pequeño amago de crear un videojuego RPG**. 
 Aunque solo están implementadas funciones de movilidad básica, colisiones del mapa y un principio de lo que debería ser la interfaz de usuario, le guardo mucho cariño al proyecto por el concepto que hay detrás y que aun no ha podido ver la luz. 
 
 Des de entonces he pasado a programar videojuegos en Godot, donde he empezado otros proyectos, pero en el futuro me gustaría retomar este y ver la idea que concebí con tanta ilusión materializarse en, a mi parecer, uno de los mejores medios para contar historias.
